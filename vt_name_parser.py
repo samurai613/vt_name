@@ -20,9 +20,9 @@ FAMILY_CATEGORY_MAP = {
 }
 
 ENGINE_PRIORITY = {
-    "Varist": 100, "Microsoft": 95, "ClamAV": 90, "Avast":85, "ESET-NOD32": 80, "BitDefender": 75,
-    "Sophos": 70, "TrendMicro": 65, "McAfee": 60, "Fortinet": 55, "GData":50, "SentinelOne": 45,
-    "ZoneAlarm": 40, "Ikarus": 35, "AVG": 30, "Rising": 20, "Jiangmin": 10
+    "Microsoft": 100, "Avast":95, "Sophos": 90, "ESET-NOD32": 85, "BitDefender": 80,
+    "TrendMicro": 75, "McAfee": 70, "Fortinet": 65, "GData":60, "SentinelOne": 55,
+    "ZoneAlarm": 50, "Ikarus": 45, "AVG": 40
 }
 DEFAULT_PRIORITY = 5
 
